@@ -1,72 +1,114 @@
-## Hi 👋, I'm Bhumika Sahu  
+<h1 align="center">Hi 👋, I'm Bhumika Sahu</h1>
+<h3 align="center">A passionate Software Engineer & Frontend / Full-Stack Developer from India 🇮🇳</h3>
 
-### 🚀 Software Engineer | Frontend & Full-Stack Developer from India 🇮🇳  
+<p>
+Hello there! 👋 Welcome to my GitHub profile. I enjoy building responsive and scalable web applications and exploring modern web technologies. I love turning ideas into real-world digital solutions and continuously improving my problem-solving skills.
+</p>
 
-Welcome to my GitHub profile! 👩‍💻  
-I enjoy building responsive and scalable web applications and exploring modern technologies. With a strong foundation in frontend and backend development, I love solving real-world problems through clean and efficient code.
+<img align="right" alt="coding" width="400"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7ujpwgI4AxuAVluz8WA6cF7t7tkwcKA9PQ&usqp=CAU">
 
----
-
-### 🌱 Currently Learning
-- Data Structures & Algorithms  
-- Advanced React.js  
-- Spring Boot & Backend Development  
-
----
-
-### 🛠️ Tech Stack & Skills  
-
-#### 💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🎨 Frontend Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🧩 Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-#### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🌱 I’m currently learning **Data Structures & Algorithms, Advanced React.js, Spring Boot**
+- 💻 Interested in **Software Engineering, Frontend & Full-Stack Development**
+- 📫 How to reach me: **bhumikasahu0923@gmail.com**
 
 ---
 
-### 📌 Featured Projects
-- **Wanderlust** – Full Stack Booking Platform  
-- **Turismo** – Tourism Website  
-- **Personal Portfolio Website**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhumika-sahu-29558b286/" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/bhumika2309" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+alt="github" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 📫 How to reach me  
-📧 **Email:** bhumikasahu0923@gmail.com  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+alt="springboot" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+alt="bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+alt="mongodb" width="40" height="40"/>
+</a>
+
+</p>
 
 ---
 
-### 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-sahu-29558b286/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhumika2309)
+<h3 align="left">📊 GitHub Stats:</h3>
 
----
+<p>
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=bhumika2309&show_icons=true&locale=en&layout=compact"
+alt="top languages" />
+</p>
 
-### 📊 GitHub Stats  
-![Bhumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumika2309&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika2309&layout=compact&theme=react)
+<p>
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=bhumika2309&show_icons=true&locale=en"
+alt="github stats" />
+</p>
 
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
