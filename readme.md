@@ -98,7 +98,7 @@ alt="mongodb" width="40" height="40"/>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+
 
 
 
